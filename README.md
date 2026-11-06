@@ -1,4 +1,4 @@
-# docimprint-com
+# DocImprint
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-docimprint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://docimprint.com/
+DocImprint provides a verifiable document layer for AI agents, offering tamper‑evident evidence bundles, cryptographic proofs, and pay‑per‑call pricing on Base. It enables agents to capture, analyze, and cite documents with cryptographic guarantees, supporting MCP‑native integration and x402 USDC payments. The platform includes OCR extraction, async processing, and webhooks for real‑time updates, targeting high‑trust AI applications.
+
+**Areas:** AI · Document · Verification · Cryptography · Payments · Company
+
+## DocImprint on APIs.io
+
+Everything profiled for DocImprint is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docimprint-com/](https://apis.io/providers/docimprint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [DocImprint Billing API](https://apis.io/apis/docimprint-com/docimprint-com-billing-api/) — The Billing API from DocImprint — 1 operation(s) for billing.
+- [DocImprint Check Claims API](https://apis.io/apis/docimprint-com/docimprint-com-check-claims-api/) — The Check Claims API from DocImprint — 1 operation(s) for check claims.
+- [DocImprint Checkpoints API](https://apis.io/apis/docimprint-com/docimprint-com-checkpoints-api/) — The Checkpoints API from DocImprint — 4 operation(s) for checkpoints.
+- [DocImprint Collections API](https://apis.io/apis/docimprint-com/docimprint-com-collections-api/) — The Collections API from DocImprint — 7 operation(s) for collections.
+- [DocImprint Describe API](https://apis.io/apis/docimprint-com/docimprint-com-describe-api/) — The Describe API from DocImprint — 1 operation(s) for describe.
+- [DocImprint Extract API](https://apis.io/apis/docimprint-com/docimprint-com-extract-api/) — The Extract API from DocImprint — 15 operation(s) for extract.
+- [DocImprint Feedback API](https://apis.io/apis/docimprint-com/docimprint-com-feedback-api/) — The Feedback API from DocImprint — 1 operation(s) for feedback.
+- [DocImprint Jobs API](https://apis.io/apis/docimprint-com/docimprint-com-jobs-api/) — The Jobs API from DocImprint — 2 operation(s) for jobs.
+- [DocImprint Keys API](https://apis.io/apis/docimprint-com/docimprint-com-keys-api/) — The Keys API from DocImprint — 1 operation(s) for keys.
+- [DocImprint Monitor API](https://apis.io/apis/docimprint-com/docimprint-com-monitor-api/) — The Monitor API from DocImprint — 3 operation(s) for monitor.
+- [DocImprint Qa API](https://apis.io/apis/docimprint-com/docimprint-com-qa-api/) — The Qa API from DocImprint — 1 operation(s) for qa.
+- [DocImprint Quickstart API](https://apis.io/apis/docimprint-com/docimprint-com-quickstart-api/) — The Quickstart API from DocImprint — 1 operation(s) for quickstart.
+- [DocImprint Quota API](https://apis.io/apis/docimprint-com/docimprint-com-quota-api/) — The Quota API from DocImprint — 1 operation(s) for quota.
+- [DocImprint Summarize API](https://apis.io/apis/docimprint-com/docimprint-com-summarize-api/) — The Summarize API from DocImprint — 1 operation(s) for summarize.
+- [DocImprint Translate API](https://apis.io/apis/docimprint-com/docimprint-com-translate-api/) — The Translate API from DocImprint — 1 operation(s) for translate.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Docimprint Com Agentic Access](https://apis.io/agentic-access/docimprint-com/docimprint-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DocImprint API Rules](https://apis.io/rules/docimprint-com/docimprint-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Docimprint Com Authentication](https://apis.io/security/docimprint-com/docimprint-com-authentication/)
+- [Docimprint Com Domain Security](https://apis.io/security/docimprint-com/docimprint-com-domain-security/)
+- [Docimprint Com Vulnerability Disclosure](https://apis.io/security/docimprint-com/docimprint-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Docimprint Com Plans Pricing](https://apis.io/plans/docimprint-com/docimprint-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Docimprint Com Rate Limits](https://apis.io/rate-limits/docimprint-com/docimprint-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docimprint.com/)
+- [Documentation](https://docimprint.com/docs)
+- [Getting started](https://docimprint.com/docs)
+- [API reference](https://docimprint.com/docs/reference)
+- [Pricing](https://docimprint.com/pricing)
+- [Support](https://docimprint.com/contact)
+- [Changelog](https://docimprint.com/changelog)
+- [Blog](https://docimprint.com/blog)
+- [Security](https://docimprint.com/security)
+- [Terms of service](https://docimprint.com/terms)
+- [Privacy policy](https://docimprint.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.5** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 41.3 |
+| Contract governance | 65.5 |
+| Operational transparency | 45.3 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 43.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 25.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/docimprint-com/](https://apis.io/providers/docimprint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DocImprint: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docimprint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
